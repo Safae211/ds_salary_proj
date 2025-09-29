@@ -1,0 +1,19 @@
+2025/09/29-12:50:41.778 555b0 Reusing MANIFEST /Users/user/Documents/ds_salary_proj/uc_user_data/Default/IndexedDB/https_www.glassdoor.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/29-12:50:41.778 555b0 Recovering log #4
+2025/09/29-12:50:41.780 555b0 Reusing old log /Users/user/Documents/ds_salary_proj/uc_user_data/Default/IndexedDB/https_www.glassdoor.com_0.indexeddb.leveldb/000004.log 
+2025/09/29-12:50:45.233 555b0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/29-12:50:45.360 555ae Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/29-12:51:01.568 555ae Level-0 table #8: started
+2025/09/29-12:51:01.575 555ae Level-0 table #8: 373691 bytes OK
+2025/09/29-12:51:01.577 555ae Delete type=0 #4
+2025/09/29-12:51:01.577 555a3 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/29-12:51:01.682 555ae Level-0 table #10: started
+2025/09/29-12:51:01.683 555ae Level-0 table #10: 512 bytes OK
+2025/09/29-12:51:01.685 555ae Delete type=0 #7
+2025/09/29-12:51:01.685 555ae Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 2690 : 1
+2025/09/29-12:51:01.685 555ae Compacting 1@0 + 1@1 files
+2025/09/29-12:51:01.686 555ae Generated table #11@0: 832 keys, 27596 bytes
+2025/09/29-12:51:01.686 555ae Compacted 1@0 + 1@1 files => 27596 bytes
+2025/09/29-12:51:01.687 555ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/29-12:51:01.687 555ae Delete type=2 #10
+2025/09/29-12:51:01.688 555a3 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 2690 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
